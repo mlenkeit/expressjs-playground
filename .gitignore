@@ -1,0 +1,12 @@
+# Ignore OS-specific tmp files
+.DS_Store
+
+# Ignore Eclipse project and settings files
+.classpath
+.settings
+.project
+.externalToolBuilders
+
+# Ignore npm files/folders
+node_modules
+npm-debug.log
